@@ -10,3 +10,8 @@ What to do next?
 Include support of lambda expression for native support python
 Added more condition to be more doing nothing
 Revision: 1.0 : First doing nothing.
+=======
+# Note
+Porting from https://github.com/Axection/DoNothing/ 
+Py version
+
